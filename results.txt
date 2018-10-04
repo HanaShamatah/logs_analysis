@@ -1,0 +1,26 @@
+The Most Popular Articles: 
+   candidate-is-jerk -- 338647 views 
+   bears-love-berries -- 253801 views 
+   bad-things-gone -- 170098 views 
+
+The Authors Views: 
+   Ursula La Multa -- 507594 views 
+   Rudolf von Treppenwitz -- 423457 views 
+   Anonymous Contributor -- 170098 views 
+   Markoff Chaney -- 84557 views 
+
+Days with more than 1% requests error: 
+   Jul 17, 2016 -- 2.26 %error 
+The Most Popular Articles: 
+   candidate-is-jerk -- 338647 views 
+   bears-love-berries -- 253801 views 
+   bad-things-gone -- 170098 views 
+
+The Authors Views: 
+   Ursula La Multa -- 507594 views 
+   Rudolf von Treppenwitz -- 423457 views 
+   Anonymous Contributor -- 170098 views 
+   Markoff Chaney -- 84557 views 
+
+Days with more than 1% requests error: 
+   Jul 17, 2016 -- 2.26 %error 
