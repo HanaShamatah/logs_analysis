@@ -80,5 +80,5 @@ output = open("results.txt", "a")
 output.write("\r\nDays with more than 1% requests error: \r\n")
 for result in Z:
     output.write("   " + str(result[0]) +
-                 " -- " + str(result[1]) + " % errors \r\n")
+                 " -- " + str(result[1]) + "% errors \r\n")
 output.close()

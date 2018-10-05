@@ -10,4 +10,4 @@ The Authors Views:
    Markoff Chaney -- 84557 views 
 
 Days with more than 1% requests error: 
-   Jul 17, 2016 -- 2.26 %error
+   Jul 17, 2016 -- 2.26% errors 
