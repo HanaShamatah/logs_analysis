@@ -16,7 +16,7 @@ def popular_articles():
     db.close()
     print "The Most Popular Articles: "
     for result in articles:
-        print str(result[0]) + " -- " + str(result[1]) + " view"
+        print str(result[0]) + " -- " + str(result[1]) + " views"
     return articles
 X = popular_articles()
 
@@ -42,7 +42,7 @@ def popular_authors():
     db.close()
     print "\r\nThe Authors Views: "
     for result in authors:
-        print str(result[0]) + " -- " + str(result[1]) + " view"
+        print str(result[0]) + " -- " + str(result[1]) + " views"
     return authors
 Y = popular_authors()
 
@@ -80,5 +80,5 @@ output = open("results.txt", "a")
 output.write("\r\nDays with more than 1% requests error: \r\n")
 for result in Z:
     output.write("   " + str(result[0]) +
-                 " -- " + str(result[1]) + " %error \r\n")
+                 " -- " + str(result[1]) + " % errors \r\n")
 output.close()
